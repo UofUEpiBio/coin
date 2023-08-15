@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd" version="1.3">
+  <meta lastmodifieddate="2023-08-15">
+    <creator>NodosChile</creator>
+    <description>A GEXF file written in R with "rgexf"</description>
+    <keywords>GEXF, NodosChile, R, rgexf, Gephi</keywords>
+  </meta>
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node" mode="static">
+      <attribute id="att1" title="type" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="JC" label="JC">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="-67.9653209393173" y="53.9146351209716" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="AG" label="AG">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="-42.4182377443247" y="62.7229105872572" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="JS" label="JS">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="-18.3860797341557" y="2.71449181064769" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="EB" label="EB">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="18.3918999419606" y="66.023766961844" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="TK" label="TK">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="-60.232560478747" y="24.1469878500024" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="JF" label="JF">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="60.9327676209051" y="-1.96144325497002" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="EK" label="EK">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="50.5258783914379" y="6.57418606752209" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="RN" label="RN">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="46.9141225893538" y="61.9376829135824" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="DN" label="DN">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="-2.25060652280409" y="56.0437206863994" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="AH" label="AH">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="0.222884151489438" y="1.202619148159" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="MJ" label="MJ">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="-29.7142968253489" y="85.6495593232436" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="NC" label="NC">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="45.8366007556001" y="-67.249968165493" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="GV" label="GV">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="59.951425728052" y="-55.7545418810197" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="SZ" label="SZ">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="27.6062642007057" y="-0.758937864986009" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="MV" label="MV">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="22.4301640462282" y="-78.2069522779296" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="ZB" label="ZB">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="3.73172724247807" y="-48.5343772964009" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="JB" label="JB">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="72.7440495486852" y="-28.8348599311069" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Evaluate interventions" label="Evaluate interventions">
+        <attvalues>
+          <attvalue for="att1" value="Methods/Approaches"/>
+        </attvalues>
+        <viz:color r="150" g="82" b="201" a="1"/>
+        <viz:position x="70.0611317523461" y="79.809446381615" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Evaluate outcomes" label="Evaluate outcomes">
+        <attvalues>
+          <attvalue for="att1" value="Methods/Approaches"/>
+        </attvalues>
+        <viz:color r="150" g="82" b="201" a="1"/>
+        <viz:position x="-94.9588016037515" y="50.0020815659362" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Implement interventions" label="Implement interventions">
+        <attvalues>
+          <attvalue for="att1" value="Methods/Approaches"/>
+        </attvalues>
+        <viz:color r="150" g="82" b="201" a="1"/>
+        <viz:position x="-25.4480470817729" y="44.9879551432095" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Health information technology/informatics" label="Health information technology/informatics">
+        <attvalues>
+          <attvalue for="att1" value="Methods/Approaches"/>
+        </attvalues>
+        <viz:color r="150" g="82" b="201" a="1"/>
+        <viz:position x="29.5941104737549" y="-31.5006851137487" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Genotype-phenotype associations" label="Genotype-phenotype associations">
+        <attvalues>
+          <attvalue for="att1" value="Methods/Approaches"/>
+        </attvalues>
+        <viz:color r="150" g="82" b="201" a="1"/>
+        <viz:position x="-100" y="-42.5412980088592" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Substance use disorder" label="Substance use disorder">
+        <attvalues>
+          <attvalue for="att1" value="Clinical Domains"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="0" a="1"/>
+        <viz:position x="-40.1851791133399" y="29.7093967784255" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Pandemics/pandemic threats" label="Pandemics/pandemic threats">
+        <attvalues>
+          <attvalue for="att1" value="Clinical Domains"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="0" a="1"/>
+        <viz:position x="-44.1131699210741" y="-27.0505981299092" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Chronic care of complex conditions" label="Chronic care of complex conditions">
+        <attvalues>
+          <attvalue for="att1" value="Clinical Domains"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="0" a="1"/>
+        <viz:position x="51.6679675734895" y="35.3267559673975" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Long-term care" label="Long-term care">
+        <attvalues>
+          <attvalue for="att1" value="Clinical Domains"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="0" a="1"/>
+        <viz:position x="25.50289309336" y="100" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Psychosocial instability/vulnerability" label="Psychosocial instability/vulnerability">
+        <attvalues>
+          <attvalue for="att1" value="Clinical Domains"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="0" a="1"/>
+        <viz:position x="-55.1816728136393" y="-1.2040839297553" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Genetic basis of disease" label="Genetic basis of disease">
+        <attvalues>
+          <attvalue for="att1" value="Clinical Domains"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="0" a="1"/>
+        <viz:position x="-74.1653210450082" y="-82.7778493318816" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Improve safety/quality of care" label="Improve safety/quality of care">
+        <attvalues>
+          <attvalue for="att1" value="Goal"/>
+        </attvalues>
+        <viz:color r="76" g="189" b="129" a="1"/>
+        <viz:position x="65.5878957473179" y="-82.0121787197237" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Improve health\nequity or SDoH" label="Improve health\nequity or SDoH">
+        <attvalues>
+          <attvalue for="att1" value="Goal"/>
+        </attvalues>
+        <viz:color r="76" g="189" b="129" a="1"/>
+        <viz:position x="14.0143266288305" y="29.0741351091353" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Improve data quality/usefulness" label="Improve data quality/usefulness">
+        <attvalues>
+          <attvalue for="att1" value="Goal"/>
+        </attvalues>
+        <viz:color r="76" g="189" b="129" a="1"/>
+        <viz:position x="2.92370321788538" y="-100" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Advance learning health system" label="Advance learning health system">
+        <attvalues>
+          <attvalue for="att1" value="Goal"/>
+        </attvalues>
+        <viz:color r="76" g="189" b="129" a="1"/>
+        <viz:position x="-13.5094126368868" y="-34.0524700737254" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Improve decision-making" label="Improve decision-making">
+        <attvalues>
+          <attvalue for="att1" value="Goal"/>
+        </attvalues>
+        <viz:color r="76" g="189" b="129" a="1"/>
+        <viz:position x="100" y="-19.4074555922581" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="Improve quality/utility of quality metrics" label="Improve quality/utility of quality metrics">
+        <attvalues>
+          <attvalue for="att1" value="Goal"/>
+        </attvalues>
+        <viz:color r="76" g="189" b="129" a="1"/>
+        <viz:position x="-48.9042993892123" y="94.0630741474374" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="BJ" label="BJ">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="6.94850820771522" y="-72.6393769676282" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="LC" label="LC">
+        <attvalues>
+          <attvalue for="att1" value="Researcher"/>
+        </attvalues>
+        <viz:color r="158" g="158" b="158" a="1"/>
+        <viz:position x="-88.0468990185285" y="-63.6348358573505" z="0"/>
+        <viz:size value="10"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="RN" target="Improve health\nequity or SDoH" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="1" source="DN" target="Improve health\nequity or SDoH" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="2" source="AH" target="Improve health\nequity or SDoH" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="3" source="SZ" target="Improve health\nequity or SDoH" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="4" source="JS" target="Improve health\nequity or SDoH" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="5" source="NC" target="Improve safety/quality of care" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="6" source="GV" target="Improve safety/quality of care" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="7" source="MV" target="Improve data quality/usefulness" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="8" source="Improve data quality/usefulness" target="BJ" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="9" source="AH" target="Advance learning health system" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="10" source="ZB" target="Advance learning health system" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="11" source="JB" target="Improve decision-making" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="12" source="MJ" target="Improve quality/utility of quality metrics" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="13" source="AG" target="Improve quality/utility of quality metrics" weight="1">
+        <viz:color r="117" g="173" b="143" a="0.8"/>
+      </edge>
+      <edge id="14" source="RN" target="Evaluate interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="15" source="DN" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="16" source="AH" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="17" source="SZ" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="18" source="JS" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="19" source="NC" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="20" source="GV" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="21" source="MV" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="22" source="Health information technology/informatics" target="BJ" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="23" source="AH" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="24" source="ZB" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="25" source="JB" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="26" source="MJ" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="27" source="AG" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="28" source="JC" target="Evaluate outcomes" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="29" source="AG" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="30" source="JC" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="31" source="EB" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="32" source="TK" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="33" source="JS" target="Implement interventions" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="34" source="JF" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="35" source="EK" target="Health information technology/informatics" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="36" source="Genotype-phenotype associations" target="LC" weight="1">
+        <viz:color r="154" g="120" b="179" a="0.8"/>
+      </edge>
+      <edge id="37" source="JS" target="Substance use disorder" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="38" source="AG" target="Substance use disorder" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="39" source="JS" target="Pandemics/pandemic threats" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="40" source="EB" target="Chronic care of complex conditions" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="41" source="JF" target="Chronic care of complex conditions" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="42" source="EK" target="Chronic care of complex conditions" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="43" source="EB" target="Long-term care" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="44" source="TK" target="Psychosocial instability/vulnerability" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="45" source="JS" target="Psychosocial instability/vulnerability" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+      <edge id="46" source="Genetic basis of disease" target="LC" weight="1">
+        <viz:color r="79" g="79" b="79" a="0.8"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
+
